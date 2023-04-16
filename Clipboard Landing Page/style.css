@@ -1,0 +1,251 @@
+/* IMPORT FONT */
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;700&display=swap');
+
+/* PREDEFINIÇÃO */
+* {
+    font-family: 'Bai Jamjuree', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* -------------- */
+
+/* INICIO */
+.inicio {
+    text-align: center;
+    padding-top: 90px;
+    max-width: 659px;
+    margin: auto;
+}
+
+.background {
+    background-image: url(./images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* STYLE LINKS */
+.links {
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
+    margin: 0 10px 0 10px;
+}
+
+#ios {
+    background-color: hsl(171, 66%, 44%);
+    box-shadow: 2px 2px 9px hsl(171, 66%, 44%);
+}
+
+#ios:hover {
+    background-color: white;
+    color: hsl(201, 11%, 66%);
+}
+
+#mac {
+    background-color: hsl(233, 100%, 69%);
+    box-shadow: 2px 2px 9px hsl(233, 100%, 69%);
+}
+
+#mac:hover {
+    background-color: white;
+    color: hsl(201, 11%, 66%);
+}
+
+/* FIM STYLE LINKS */
+.p-inicio {
+    margin-bottom: 50px;
+}
+
+.titulo-inicio {
+    color: hsl(210, 10%, 33%);
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+/* FIM INICIO */
+
+/* ABOUT SECTION 1 */
+
+.about-1 {
+    text-align: center;
+    margin-top: 100px;
+    color: hsl(210, 10%, 33%);
+    max-width: 659px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.keep {
+    font-size: 30px;
+}
+
+p {
+    color: hsl(201, 11%, 66%);
+}
+
+/* FIM ABOUT SECTION 1 */
+
+/* TOPICS */
+.pc {
+    float: left;
+    margin-right: 150px;
+    width: 700px;
+    margin-left: 60px;
+}
+
+.topics {
+    margin-top: 50px;
+}
+
+li h3 {
+    color: hsl(210, 10%, 33%);
+}
+
+.pesquisa {
+    padding-top: 80px;
+    margin-bottom: 40px;
+}
+
+.icloud {
+    margin-bottom: 40px;
+}
+
+/* FIM TOPICS */
+
+/* ABOUT 2 */
+.about-2 {
+    max-width: 659px;
+    text-align: center;
+    margin: auto;
+    margin-top: 180px;
+}
+
+.about-2 h2 {
+    font-size: 30px;
+    color: hsl(210, 10%, 33%);
+}
+
+.devices {
+    text-align: center;
+    margin-top: 120px;
+}
+
+/* FIM ABOUT 2 */
+
+/* TURBINE */
+.supercharge h2 {
+    font-size: 30px;
+    color: hsl(210, 10%, 33%);
+}
+
+.supercharge {
+    text-align: center;
+}
+
+/* FIM TURBINE */
+
+/* TOPICS 2 + LOGOS*/
+.blacklist,
+.text,
+.preview {
+    max-width: 450px;
+    text-align: center;
+    display: inline-block;
+}
+
+.topics-2 h3 {
+    color: hsl(210, 10%, 33%);
+}
+
+.topics-2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.logos {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.google,
+.ibm,
+.microsoft,
+.hp {
+    margin-right: 160px;
+}
+
+/* FIM TOPICS 2 + LOGOS */
+
+/* 2° DOWNLOAD */
+.download-2 {
+    text-align: center;
+    padding-top: 100px;
+    max-width: 659px;
+    margin: auto;
+}
+
+.download-2 h2 {
+    color: hsl(210, 10%, 33%);
+}
+
+.links-2 {
+    margin-top: 40px;
+}
+
+/* FIM 2° DOWNLOAD */
+
+/* FOOTER */
+
+.logo-footer {
+    width: 50px;
+    display: inline-block;
+    margin: 0 120px 0 130px;
+}
+
+footer {
+    background-color: hsl(201, 11%, 90%);
+    overflow: hidden;
+    margin-top: 140px;
+}
+
+.ul-footer li {
+    display: inline-block;
+    margin-right: 80px;
+    line-height: 35px;
+}
+
+.ul-footer {
+    max-width: 598px;
+    display: inline-block;
+}
+
+.ul-footer a {
+    color: hsl(210, 10%, 33%);
+}
+
+.icons-footer {
+    float: right;
+    line-height: 102px;
+    margin-right: 115px;
+}
+
+.icons-footer img {
+    margin-right: 15px;
+}
+
+.attribution {
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(201, 11%, 66%);
+    text-decoration: underline;
+}
+
+/* FIM FOOTER */
