@@ -5,9 +5,9 @@
 
 Esse projeto foi desenvolvido com o objetivo de praticar, podendo ser classificado como HTML e CSS no nível intermediário.
 
-## Layout mobile (Ainda não desenvolvido)
+## Layout Mobile (Ainda não desenvolvido)
 
-## Layout web
+## Layout Web
 [Clique aqui (Layout Desktop)](https://github.com/CristianBorgesDaSilva/Clipboard-Landing-Page/blob/main/Clipboard%20Landing%20Page/design/Layout%20Desktop.pdf)
 
 # Tecnologias utilizadas
